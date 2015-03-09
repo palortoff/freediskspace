@@ -5,7 +5,7 @@ var os = require('os');
 var fd = require('freedisk');
 var Q = require('q');
 
-exports.drivelist = driveList;
+exports.drivelist = driveList; // for backward compatibility
 exports.driveList = driveList;
 exports.detail = detail;
 
