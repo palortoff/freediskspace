@@ -38,5 +38,10 @@
     "tarball": "http://registry.npmjs.org/freediskspace/-/freediskspace-0.0.2.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/freediskspace/-/freediskspace-0.0.2.tgz"
+  "_resolved": "https://registry.npmjs.org/freediskspace/-/freediskspace-0.0.2.tgz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palortoff/freediskspace"
+  }
+
 }
