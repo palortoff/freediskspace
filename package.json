@@ -1,6 +1,6 @@
 {
   "name": "freediskspace",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get total, free and used diskspace on posix and windows OSes",
   "main": "freediskspace.js",
   "scripts": {
@@ -43,5 +43,4 @@
     "type": "git",
     "url": "https://github.com/palortoff/freediskspace"
   }
-
 }
