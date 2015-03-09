@@ -1,0 +1,42 @@
+{
+  "name": "freediskspace",
+  "version": "0.0.2",
+  "description": "Get total, free and used diskspace on posix and windows OSes",
+  "main": "freediskspace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "disk",
+    "space"
+  ],
+  "author": {
+    "name": "palortoff"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "freedisk": "^0.1.3"
+  },
+  "_id": "freediskspace@0.0.2",
+  "_shasum": "157824ee0a61a6820d6406cfb3ebfb1223a5798b",
+  "_from": "freediskspace@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "palortoff",
+    "email": "npm@larsflitter.de"
+  },
+  "maintainers": [
+    {
+      "name": "palortoff",
+      "email": "npm@larsflitter.de"
+    }
+  ],
+  "dist": {
+    "shasum": "157824ee0a61a6820d6406cfb3ebfb1223a5798b",
+    "tarball": "http://registry.npmjs.org/freediskspace/-/freediskspace-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/freediskspace/-/freediskspace-0.0.2.tgz"
+}
