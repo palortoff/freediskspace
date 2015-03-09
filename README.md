@@ -6,7 +6,7 @@
 
     var freediskspace = require('freediskspace')
 
-    freediskspace.drivelist(function(error, drives){
+    freediskspace.driveList(function(error, drives){
         console.log(drives);
     };
 
