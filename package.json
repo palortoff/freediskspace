@@ -44,7 +44,6 @@
     "type": "git",
     "url": "https://github.com/palortoff/freediskspace"
   },
-  "readme": "# Install\r\n\r\n    npm install freediskspace\r\n\r\n# Usage\r\n\r\n    var freediskspace = require('freediskspace')\r\n\r\n    freediskspace.drivelist(function(error, drives){\r\n        console.log(drives);\r\n    };\r\n\r\n    freediskspace.detail('/', function(error, details){\r\n        console.log(details);\r\n    };",
   "readmeFilename": "README.md",
   "gitHead": "29dfb488697e447021950aa5d4e2fbf9c7008d51",
   "bugs": {
