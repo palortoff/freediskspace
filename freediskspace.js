@@ -125,7 +125,7 @@ function driveListWindows(callback) {
 }
 
 function driveListPosix(callback) {
-  fd.driveList(callback);
+  fd.drivelist(callback);
 }
 
 

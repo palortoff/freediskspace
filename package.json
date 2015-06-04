@@ -1,7 +1,7 @@
 {
   "name": "freediskspace",
   "version": "0.1.1",
-  "description": "Get total, free and used diskspace on posix and windows OSes",
+  "description": "Get total, free and used diskspace on posix and windows (Windows 7 and up) OSes",
   "main": "freediskspace.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
