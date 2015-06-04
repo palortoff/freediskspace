@@ -1,6 +1,6 @@
 {
   "name": "freediskspace",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get total, free and used diskspace on posix and windows (Windows 7 and up) OSes",
   "main": "freediskspace.js",
   "scripts": {
