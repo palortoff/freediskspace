@@ -1,3 +1,9 @@
+# Package is deprecated!
+
+This package is no longer maintained.
+
+There are open vulnerabilities (command injection) that will not be fixed.
+
 # Install
 
     npm install freediskspace
@@ -22,7 +28,6 @@
     };
 
 # Usage (promises)
-
 
     var freediskspace = require('freediskspace');
 
